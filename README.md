@@ -1,4 +1,4 @@
-# Tech Debt POC
+# Multi Agent Systems
 
 This project implements a multi-agent system using the OpenAI Agents SDK, allowing multiple AI agents to work together to accomplish complex tasks.
 
@@ -14,7 +14,7 @@ This project implements a multi-agent system using the OpenAI Agents SDK, allowi
 1. Clone the repository:
 ```bash
 git clone <your-repository-url>
-cd Tech_Debt_POC
+cd multi-agent-system
 ```
 
 2. Install uv if you haven't already:
@@ -38,7 +38,7 @@ TAVILY_API_KEY=your_tavily_api_key_here
 ## Project Structure
 
 ```
-tech_debt_poc/
+multi-agent-system/
 ├── agents_and_tools/
 │   ├── agent_tools/     # Custom tools for agents
 │   ├── data/           # Data files
